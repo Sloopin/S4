@@ -11,3 +11,5 @@ Secure Network Infrastructure: Implemented network segmentation and managed secu
 Wireless Security and Password Cracking: specialized in testing the security of WPA, WPA2, WPS, WEP and cracking obtained hashes. Written extensive documentation on the subject, researched and deployed mitigation tactics. ARP Spoofing, Man in the middle and packet sniffing with Wireshark have also been explored.
 
 Incident Response and Analysis: conducted a security incident analysis exercise for a hypothetical company focusing on mitigation strategies and continuous security improvements. Assessed various CVE’s using the CVSS Framework.
+
+note: Pen Testing report, plan and agreement not added due to NDA
